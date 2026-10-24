@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
-  "notes": "Accubeperking-knop gaat nu rechtstreeks naar de juiste systeemdialoog, en het statusscherm legt beter uit wat er mis is.",
+  "versionCode": 3,
+  "versionName": "1.0.2",
+  "notes": "Het laatste trilsignaal van een teken werd afgekapt; bij korte tekens als S voelde de derde punt daardoor zwakker.",
   "downloadUrl": "https://github.com/matthijsjonkers/morsebuzz/releases/latest/download/MorseBuzz.apk"
 }
