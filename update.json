@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0",
-  "notes": "Eerste versie.",
+  "versionCode": 2,
+  "versionName": "1.0.1",
+  "notes": "Accubeperking-knop gaat nu rechtstreeks naar de juiste systeemdialoog, en het statusscherm legt beter uit wat er mis is.",
   "downloadUrl": "https://github.com/matthijsjonkers/morsebuzz/releases/latest/download/MorseBuzz.apk"
 }
