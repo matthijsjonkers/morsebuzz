@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.2",
-  "notes": "Het laatste trilsignaal van een teken werd afgekapt; bij korte tekens als S voelde de derde punt daardoor zwakker.",
+  "versionCode": 4,
+  "versionName": "1.0.3",
+  "notes": "Afzender meesturen staat nu standaard uit: er trilt alleen nog de berichttekst, zonder de naam van de afzender of de groep.",
   "downloadUrl": "https://github.com/matthijsjonkers/morsebuzz/releases/latest/download/MorseBuzz.apk"
 }
