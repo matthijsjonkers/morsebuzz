@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.0.3",
-  "notes": "Afzender meesturen staat nu standaard uit: er trilt alleen nog de berichttekst, zonder de naam van de afzender of de groep.",
+  "versionCode": 5,
+  "versionName": "1.0.4",
+  "notes": "Reageert iemand met een emoji op een bericht, dan trilt alleen nog een kort seintje (👍 OK, ❤️ 88, 😂 HI, 😮 ?, 😢 SRI, 🙏 TU) in plaats van het hele geciteerde bericht. De tabel staat op het infoscherm.",
   "downloadUrl": "https://github.com/matthijsjonkers/morsebuzz/releases/latest/download/MorseBuzz.apk"
 }
