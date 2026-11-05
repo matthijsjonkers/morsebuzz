@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.0.5",
-  "notes": "Verschuif je de tekensnelheid of de effectieve snelheid terwijl er een bericht trilt, dan pakt de rest van het bericht die snelheid meteen op — tijdens een lange pauze tussen twee letters zelfs voordat die om is. Hetzelfde geldt voor de trilsterkte en voor de oefenmodus.",
+  "versionCode": 7,
+  "versionName": "1.0.6",
+  "notes": "Bovenaan het berichtenscherm staat nu \"Nu in je meldingen\": de WhatsApp-berichten die nog in je meldingenbalk staan, ook die van voordat de app draaide, met per bericht een knop om het alsnog te voelen.",
   "downloadUrl": "https://github.com/matthijsjonkers/morsebuzz/releases/latest/download/MorseBuzz.apk"
 }
