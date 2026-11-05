@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.0.4",
-  "notes": "Reageert iemand met een emoji op een bericht, dan trilt alleen nog een kort seintje (👍 OK, ❤️ 88, 😂 HI, 😮 ?, 😢 SRI, 🙏 TU) in plaats van het hele geciteerde bericht. De tabel staat op het infoscherm.",
+  "versionCode": 6,
+  "versionName": "1.0.5",
+  "notes": "Verschuif je de tekensnelheid of de effectieve snelheid terwijl er een bericht trilt, dan pakt de rest van het bericht die snelheid meteen op — tijdens een lange pauze tussen twee letters zelfs voordat die om is. Hetzelfde geldt voor de trilsterkte en voor de oefenmodus.",
   "downloadUrl": "https://github.com/matthijsjonkers/morsebuzz/releases/latest/download/MorseBuzz.apk"
 }
