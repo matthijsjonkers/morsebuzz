@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.0.7",
-  "notes": "Een bericht dat trilt kun je nu onderbreken: bij het bericht zelf wordt de knop \"Stoppen\", en rechtsboven staat een Stoppen-knop die vanaf elk tabblad werkt. Tijdens het afspelen licht het teken dat op dat moment trilt op in de morseregel, zodat je kunt meelezen waar je bent.",
+  "versionCode": 9,
+  "versionName": "1.0.8",
+  "notes": "De updatecontrole draait nu elke keer dat je de app opent in plaats van eens per proces, dus een nieuwe versie valt voortaan op. Het logboek met de laatste tien getrilde berichten blijft bovendien staan als je de app afsluit; uit te zetten met \"Logboek bewaren\".",
   "downloadUrl": "https://github.com/matthijsjonkers/morsebuzz/releases/latest/download/MorseBuzz.apk"
 }
