@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.0.6",
-  "notes": "Bovenaan het berichtenscherm staat nu \"Nu in je meldingen\": de WhatsApp-berichten die nog in je meldingenbalk staan, ook die van voordat de app draaide, met per bericht een knop om het alsnog te voelen.",
+  "versionCode": 8,
+  "versionName": "1.0.7",
+  "notes": "Een bericht dat trilt kun je nu onderbreken: bij het bericht zelf wordt de knop \"Stoppen\", en rechtsboven staat een Stoppen-knop die vanaf elk tabblad werkt. Tijdens het afspelen licht het teken dat op dat moment trilt op in de morseregel, zodat je kunt meelezen waar je bent.",
   "downloadUrl": "https://github.com/matthijsjonkers/morsebuzz/releases/latest/download/MorseBuzz.apk"
 }
