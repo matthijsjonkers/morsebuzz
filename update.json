@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.0.8",
-  "notes": "De updatecontrole draait nu elke keer dat je de app opent in plaats van eens per proces, dus een nieuwe versie valt voortaan op. Het logboek met de laatste tien getrilde berichten blijft bovendien staan als je de app afsluit; uit te zetten met \"Logboek bewaren\".",
+  "versionCode": 10,
+  "versionName": "1.0.9",
+  "notes": "Nieuw tabblad \"Alfabet\" in de oefenmodus: het hele alfabet trilt teken voor teken en begint na de laatste letter weer vooraan, tot je stopt. Geen antwoordknoppen — bedoeld om passief mee te voelen met je toestel in je zak. De letter die trilt licht op; zet \"Letter meteen tonen\" uit om eerst zelf te raden.",
   "downloadUrl": "https://github.com/matthijsjonkers/morsebuzz/releases/latest/download/MorseBuzz.apk"
 }
