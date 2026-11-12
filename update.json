@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "1.0.11",
-  "notes": "Nieuwe instelling \"Piepjes in plaats van trillen\": elk teken gaat als zijtoon van 700 Hz naar de luidspreker in plaats van naar de trilmotor. De timing blijft precies hetzelfde. De schakelaar staat op het berichtenscherm én onderaan het oefenscherm, zodat je er tijdens het oefenen tussen kunt wisselen; de sterkteschuif regelt dan het volume. Het geluid loopt over het mediavolume, dus het klinkt ook als je toestel op stil staat. Een toestel zonder trilmotor kan de app hiermee alsnog gebruiken.",
+  "versionCode": 13,
+  "versionName": "1.0.12",
+  "notes": "Nieuwe schuif \"Pauze tussen woorden\", van de standaard 7 eenheden tot vijf keer zoveel — op het berichtenscherm en onderaan het oefenscherm. Iets anders dan de effectieve snelheid: die geeft bedenktijd per letter, dit geeft ruimte om een heel woord af te maken in je hoofd voordat het volgende begint. Binnen een woord verandert er niets. Het is een factor, dus de pauze loopt mee met de snelheid; het scherm toont wat er uitkomt. In de alfabetronde bepaalt deze schuif de pauze tussen de letters.",
   "downloadUrl": "https://github.com/matthijsjonkers/morsebuzz/releases/latest/download/MorseBuzz.apk"
 }
