@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "1.0.9",
-  "notes": "Nieuw tabblad \"Alfabet\" in de oefenmodus: het hele alfabet trilt teken voor teken en begint na de laatste letter weer vooraan, tot je stopt. Geen antwoordknoppen — bedoeld om passief mee te voelen met je toestel in je zak. De letter die trilt licht op; zet \"Letter meteen tonen\" uit om eerst zelf te raden.",
+  "versionCode": 11,
+  "versionName": "1.0.10",
+  "notes": "Nieuw tabblad \"Hardop\" in de oefenmodus: een woord trilt een paar keer en wordt daarna door je toestel uitgesproken. Je raadt in je hoofd mee en hoort meteen of je goed zat — niets te typen, dus dit werkt ook met je telefoon in je zak. Je stelt zelf in hoeveel letters uit de leervolgorde mee mogen doen, hoe lang de woorden hoogstens zijn en hoe vaak een woord trilt voordat het klinkt. De lijst oefenwoorden is bijna verdubbeld.",
   "downloadUrl": "https://github.com/matthijsjonkers/morsebuzz/releases/latest/download/MorseBuzz.apk"
 }
