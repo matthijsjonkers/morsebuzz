@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "1.0.10",
-  "notes": "Nieuw tabblad \"Hardop\" in de oefenmodus: een woord trilt een paar keer en wordt daarna door je toestel uitgesproken. Je raadt in je hoofd mee en hoort meteen of je goed zat — niets te typen, dus dit werkt ook met je telefoon in je zak. Je stelt zelf in hoeveel letters uit de leervolgorde mee mogen doen, hoe lang de woorden hoogstens zijn en hoe vaak een woord trilt voordat het klinkt. De lijst oefenwoorden is bijna verdubbeld.",
+  "versionCode": 12,
+  "versionName": "1.0.11",
+  "notes": "Nieuwe instelling \"Piepjes in plaats van trillen\": elk teken gaat als zijtoon van 700 Hz naar de luidspreker in plaats van naar de trilmotor. De timing blijft precies hetzelfde. De schakelaar staat op het berichtenscherm én onderaan het oefenscherm, zodat je er tijdens het oefenen tussen kunt wisselen; de sterkteschuif regelt dan het volume. Het geluid loopt over het mediavolume, dus het klinkt ook als je toestel op stil staat. Een toestel zonder trilmotor kan de app hiermee alsnog gebruiken.",
   "downloadUrl": "https://github.com/matthijsjonkers/morsebuzz/releases/latest/download/MorseBuzz.apk"
 }
