@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "1.0.13",
-  "notes": "\"Pauze tussen woorden\" werkt nu ook in de hardopmodus. Elk oefenwoord gaat als een eigen bericht naar het afspelen, dus de schuif deed daar niets — alleen binnen een zinnetje als \"TOT MORGEN\" merkte je er iets van, en de stiltes van de ronde zelf stonden vast. Vanaf nu duurt elke stilte in de ronde even lang als de ingestelde woordpauze: tussen twee trillingen van hetzelfde woord, vóór het uitspreken en na afloop. Het hardopscherm laat zien hoe lang die stilte is en waar je hem instelt.",
+  "versionCode": 15,
+  "versionName": "1.0.14",
+  "notes": "Het oefenscherm sprong bij het draaien van het toestel terug naar het tabblad \"Letters\". Nu blijf je staan waar je was. Ook de hardop-ronde valt niet meer stil als je het scherm draait: die pakt zelf weer op met een nieuw woord.",
   "downloadUrl": "https://github.com/matthijsjonkers/morsebuzz/releases/latest/download/MorseBuzz.apk"
 }
