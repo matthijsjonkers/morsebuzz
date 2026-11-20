@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "1.0.15",
-  "notes": "Draai je het toestel tijdens het hardop oefenen, dan gaat de ronde nu verder met hetzelfde woord en hetzelfde woordnummer. Tot nu toe begon ze opnieuw met een vers woord. Het woord trilt wel weer vanaf de eerste herhaling. Verzet je daarna een schuif, dan komt er zoals altijd een nieuw woord.",
+  "versionCode": 17,
+  "versionName": "1.0.16",
+  "notes": "Trilt een bericht, dan lichtte alleen de morse mee op — teken voor teken, in een gekleurd blokje. De tekst erboven bleef stil staan. Nu loopt die tekst mee: hetzelfde blokje schuift door de letters, op hetzelfde moment als in de morse. Zo zie je letter en ritme tegelijk oplichten, in de inbox, in het logboek (tekststand) en in het testvak. Het is de tekst zoals hij gecodeerd is — hoofdletters, met de afzender erbij en afgekapt op de maximale lengte — want alleen zo staat elke letter op dezelfde plek als in de morse. Zodra het bericht uitgetrild is, staat de gewone tekst er weer.",
   "downloadUrl": "https://github.com/matthijsjonkers/morsebuzz/releases/latest/download/MorseBuzz.apk"
 }
