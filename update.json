@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "1.0.14",
-  "notes": "Het oefenscherm sprong bij het draaien van het toestel terug naar het tabblad \"Letters\". Nu blijf je staan waar je was. Ook de hardop-ronde valt niet meer stil als je het scherm draait: die pakt zelf weer op met een nieuw woord.",
+  "versionCode": 16,
+  "versionName": "1.0.15",
+  "notes": "Draai je het toestel tijdens het hardop oefenen, dan gaat de ronde nu verder met hetzelfde woord en hetzelfde woordnummer. Tot nu toe begon ze opnieuw met een vers woord. Het woord trilt wel weer vanaf de eerste herhaling. Verzet je daarna een schuif, dan komt er zoals altijd een nieuw woord.",
   "downloadUrl": "https://github.com/matthijsjonkers/morsebuzz/releases/latest/download/MorseBuzz.apk"
 }
